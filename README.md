@@ -1,8 +1,5 @@
 
-Here's the complete content formatted in Markdown, ready for inclusion in your .md file:
 
-markdown
-Copy code
 # Book and Author Data Import Application
 
 This project is a web-based application developed using Flask to upload, review, and save book and author data from Excel files to a SQLite database.
